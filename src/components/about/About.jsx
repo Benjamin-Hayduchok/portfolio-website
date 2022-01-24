@@ -14,7 +14,14 @@ const About = () => {
         </div>
       </div>
       <div className="a-right">
-
+        <p className="a-sub">
+            a-sub
+        </p>
+        <p className="a-desc">
+            DESCRIPTION GOES HERE
+            I have a passion for problem-solving and Software Engineering. 
+            Nothing is more rewarding to me than working tirelessly on a project to see the final product. 
+        </p>
       </div>
     </div>
   )
