@@ -1,0 +1,29 @@
+.p{
+    width: 30%;
+    height: 40vh;
+    margin: 20px 10px;
+    border: 2px solid lightpink;
+    border-radius: 10px 10px 0px 0px;
+    overflow: hidden;
+ }
+
+ .p-browser{
+     height: 20px;
+     background-color: lightpink;
+     display: flex;
+     align-items: center;
+ }
+
+ .p-circle{
+     height: 6px;
+     width: 6px;
+     border-radius: 50%;
+     margin: 3px;
+     background-color: white;
+ }
+
+ .p-img{
+    width: 100%;
+    height: 100%;
+    padding-bottom: 10px;  
+ }
